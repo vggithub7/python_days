@@ -14,4 +14,4 @@ for j in range(int(raw_input())):
     elif flag==0:
         print "Prime"
     else:
-        print "Not prime"     
+        print "Not prime"
