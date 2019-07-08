@@ -14,7 +14,7 @@ D,M,Y=map(int,raw_input().split(" "))
 #D=int(raw_input())
 #M=int(raw_input())
 #Y=int(raw_input())
-#iffffffff
+
 if Y==y:
     if m==M:
         if d==D or d<D:
