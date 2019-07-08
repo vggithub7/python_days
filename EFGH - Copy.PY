@@ -4,7 +4,7 @@
 -m "#If the book is returned after the expected return day but still within the same calendar month and year as the expected return date,FINE=15HACKOS X (THE NO. OF DAYS LATE)." ^
 -m "#If the book is returned after the expected return month but still within the same calendar year as the expected return date, the FINE=500HACKOS X (THE NO. OF MONTHS LATE)." ^
 -m "#If the book is returned after the calendar year in which it was expected, there is a fixed fine of 10000 HACKOS." ^
-
+##
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 d,m,y=map(int,raw_input().split(" "))
 D,M,Y=map(int,raw_input().split(" "))
